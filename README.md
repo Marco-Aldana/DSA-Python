@@ -19,7 +19,7 @@ pytest --version
 deactivate
 
 #update requeriments document for new libs
-pip freeze > Requirements.txt
+pip freeze > requirements.txt
 ```
 
 To install just run pip install in your local environment
