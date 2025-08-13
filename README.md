@@ -24,11 +24,8 @@ pip freeze > requirements.txt
 
 To install just run pip install in your local environment
 
- ### To Execute tests just run pytest commands
+ ### To Execute tests just run pytest commands in project root
 ```bash
-#execute from project root folder and use prefix 
-python -m pytest
-
 # All tests
 pytest
 
